@@ -1,0 +1,13 @@
+body{
+            background-color:grey;
+            background-image: url(https://www.xtrafondos.com/descargar.php?id=6406&resolucion=2560x1440);
+            background-size: cover;
+            background-position: 50% 50%;
+            background-attachment: fixed;
+    color: aliceblue;
+}
+
+.table{
+    background-color: rgba(0, 0, 0, 0.500);
+    border-color: rgb(150, 120, 255);
+}
